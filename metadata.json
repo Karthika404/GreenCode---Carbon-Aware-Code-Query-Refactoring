@@ -1,0 +1,6 @@
+{
+  "name": "GreenCode - Carbon-Aware Code & Query Refactoring",
+  "description": "GenAI-powered developer tool and carbon-aware CI/CD platform that refactors inefficient code and SQL queries using live regional grid carbon intensity data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
